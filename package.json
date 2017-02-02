@@ -1,0 +1,26 @@
+{
+  "name": "gonzo",
+  "version": "0.0.1",
+  "description": "sex, drugs and javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonzohacker/gonzo.js.git"
+  },
+  "keywords": [
+    "gonzo",
+    "hacker",
+    "agile",
+    "tacos",
+    "barstow"
+  ],
+  "author": "GonzoHacker",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/gonzohacker/gonzo.js/issues"
+  },
+  "homepage": "https://github.com/gonzohacker/gonzo.js#readme"
+}
